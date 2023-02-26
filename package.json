@@ -1,0 +1,20 @@
+{
+  "name": "oddities-beta-src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "colors": "^1.4.0",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "react": "^18.2.0",
+    "ws": "^8.12.1"
+  }
+}
